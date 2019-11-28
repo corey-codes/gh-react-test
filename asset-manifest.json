@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hellcat04/gh-react-test/static/css/main.b100e6da.chunk.css",
+    "main.js": "/hellcat04/gh-react-test/static/js/main.25d4c7be.chunk.js",
+    "main.js.map": "/hellcat04/gh-react-test/static/js/main.25d4c7be.chunk.js.map",
+    "runtime-main.js": "/hellcat04/gh-react-test/static/js/runtime-main.62d8ec64.js",
+    "runtime-main.js.map": "/hellcat04/gh-react-test/static/js/runtime-main.62d8ec64.js.map",
+    "static/js/2.3d72dbe8.chunk.js": "/hellcat04/gh-react-test/static/js/2.3d72dbe8.chunk.js",
+    "static/js/2.3d72dbe8.chunk.js.map": "/hellcat04/gh-react-test/static/js/2.3d72dbe8.chunk.js.map",
+    "index.html": "/hellcat04/gh-react-test/index.html",
+    "precache-manifest.e6fa78bbeebb90fd7733d7fb575e1938.js": "/hellcat04/gh-react-test/precache-manifest.e6fa78bbeebb90fd7733d7fb575e1938.js",
+    "service-worker.js": "/hellcat04/gh-react-test/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/hellcat04/gh-react-test/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/hellcat04/gh-react-test/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d8ec64.js",
+    "static/js/2.3d72dbe8.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.25d4c7be.chunk.js"
+  ]
+}
